@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Really great person. The best. Nobody is better!!*
+_Yup. I said it!_
+
+**Make America Green Again (MAGA) **
+__wOOT to the WOOT__
